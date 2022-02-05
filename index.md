@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## CharlieFoxtrotOps Client download
+
+You can use this site to download CFOclient that you need to keep your mods updated
 
 You can use the [editor on GitHub](https://github.com/Nhimself/cfo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 
 ### Markdown
 
