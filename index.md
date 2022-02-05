@@ -1,4 +1,4 @@
-## CharlieFoxtrotOps Client download
+## Charlie Foxtrot Ops Client download
 
 Download the CFOclient that you need to keep your mods updated
 
