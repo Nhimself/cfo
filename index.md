@@ -41,4 +41,4 @@ The tool will update itself when ever a new version is released. You will see th
 
 ### Support or Contact
 
-Having trouble with CFsync? Check out our [documentation](https://nhimself.github.io/cfo/) or [contact support](no-reply@example.com) and we’ll help you sort it out.
+Having trouble with CFsync? Check out our [documentation](https://nhimself.github.io/cfo/) or reach out on Discord and we’ll help you sort it out.
