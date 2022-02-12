@@ -1,0 +1,6 @@
+{
+    "BasePath":"d:\\Games\\armamods",
+    "RepositoryURL": "https://repo-cfsync.freedom-fighters.eu",
+	"UpdatesURL": "https://cfsync.freedom-fighters.eu",
+    "ModlistFile":"modList.cfm"
+}
