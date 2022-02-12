@@ -3,7 +3,7 @@
 Download the CFOclient that you need to keep your mods updated
 
 ###Download Cfsync.zip
-1. Download the [zip file](https://github.com/Nhimself/cfo/blob/main/cfsync.zip)
+1. Download the [zip file](https://cfsync.freedom-fighters.eu/cfsync.zip)
 2. Unzipand it to a folder e.g. C:\CFSync
 
 #### Edit the config.csm
@@ -12,8 +12,8 @@ Download the CFOclient that you need to keep your mods updated
 ```config.csm
 {
     "BasePath":"c:\\CFMods",
-    "RepositoryURL": "https://nhimself@repo-cfsync.charliefoxtrotops.com",
-	  "UpdatesURL": "https://github.com/Nhimself/cfo",
+    "RepositoryURL": "https://repo-cfsync.freedom-fighters.eu",
+    "UpdatesURL": "https://cfsync.freedom-fighters.eu",
     "ModlistFile":"modList.cfm"
 }
 ```
