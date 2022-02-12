@@ -32,13 +32,13 @@ Download the CFOclient that you need to keep your mods updated
 ![updating](https://user-images.githubusercontent.com/2422220/152661480-e4595b47-a479-4300-9ca7-d39583d340ae.PNG)
 
 ##Joining the Server
-1. Click on join button next to the Primary(Arma1) name to connect to the server
-2. If you click the Launch button Arma will start and give you the main menu with all the mods loaded and you will have to find the server manually.
-3. If something goes wrong check out the logs in the logs tab. 
+1. Click on ```join``` button to connect to the server
+If you click the Launch button Arma will start and give you the main menu with all the mods loaded and you will have to find the server manually.
+If something goes wrong check out the logs in the logs tab. 
 
 ###Updating the tool
 The tool will update itself when ever a new version is released. You will see the GUI disappear - then a command line / prompt will appear showing the updater running. When the update is complete the CFsync GUI will reappear.
 
 ### Support or Contact
 
-Having trouble with CFsync? Check out our [documentation](https://nhimself.github.io/cfo/) or reach out on Discord and we’ll help you sort it out.
+Having trouble with CFsync? Check out our [documentation](https://nhimself.github.io/cfo) or reach out on Discord and we’ll help you sort it out.
