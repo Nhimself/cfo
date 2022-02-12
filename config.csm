@@ -1,6 +1,0 @@
-{
-    "BasePath":"c:\\CFMods",
-    "RepositoryURL": "https://cfo:snakes@repo-cfsync.charliefoxtrotops.com",
-	"UpdatesURL": "https://cfo:snakes@cfsync.charliefoxtrotops.com",
-    "ModlistFile":"modList.cfm"
-}
